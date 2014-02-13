@@ -31,6 +31,6 @@ $ ./gradlew build && java -jar build/libs/gs-actuator-service-0.1.0.jar
 * ...or maven:
 
 ```sh
-$ maven build && java -jar target/gs-actuator-service-0.1.0.jar
+$ maven package && java -jar target/gs-actuator-service-0.1.0.jar
 ```
 
